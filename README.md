@@ -1,7 +1,4 @@
-# CLAUDE.md - Grade Management System (Team 56)
-
-## Project Overview
-UCL COMP0010 coursework: A student grade management system with Spring Boot backend and React frontend.
+# README.md - Grade Management System 
 
 **Tech Stack:**
 - Backend: Java 17, Spring Boot 3.4.10, Spring Data JPA, Spring Data REST, H2 Database
